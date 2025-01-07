@@ -4,6 +4,8 @@ An image sharing site.
 
 ## Project Description
 
+Spots is a social media web application where users can add and remove photos, like photos of other users, and make minor adjustments to their profile.
+
 ## Tech Stack
 
 - HTML
@@ -18,7 +20,8 @@ This webpage is deployed to Github Pages
 
 <img width="376" alt="Spots1" src="https://github.com/user-attachments/assets/3858a8f6-9e8f-4c28-bb91-8e6a2faf80f5" />
 
-<img width="128" alt="Spots2" src="https://github.com/user-attachments/assets/7b36628d-202b-489b-ad86-4f10d3f45fc3" />
+<img width="113" alt="Screenshot 2025-01-07 at 12 13 20 AM" src="https://github.com/user-attachments/assets/019e7e58-68d9-4743-a9a0-7ca321087318" />
+
 
 
 **Intro**
