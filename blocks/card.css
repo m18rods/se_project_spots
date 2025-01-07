@@ -17,9 +17,9 @@
 }
 
 .card_like-btn {
-  background-image: url(../images/like_icon.svg);
   width: 23px;
   height: 20px;
+  padding: 0;
   border: none;
   background-color: transparent;
   opacity: 40%;
