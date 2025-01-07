@@ -18,6 +18,8 @@ This webpage is deployed to Github Pages
 
 <img width="376" alt="Spots1" src="https://github.com/user-attachments/assets/3858a8f6-9e8f-4c28-bb91-8e6a2faf80f5" />
 
+<img width="128" alt="Spots2" src="https://github.com/user-attachments/assets/7b36628d-202b-489b-ad86-4f10d3f45fc3" />
+
 
 **Intro**
 
