@@ -16,7 +16,7 @@ Spots is a social media web application where users can add and remove photos, l
 
 This webpage is deployed to Github Pages
 
-- Deployment Link:
+- Deployment Link: https://m18rods.github.io/se_project_spots/
 
 ## Screenshots
 
