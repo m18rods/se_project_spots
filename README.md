@@ -16,7 +16,8 @@ This webpage is deployed to Github Pages
 
 - Deployment Link:
 
-<img  >
+<img width="376" alt="Spots1" src="https://github.com/user-attachments/assets/3858a8f6-9e8f-4c28-bb91-8e6a2faf80f5" />
+
 
 **Intro**
 
