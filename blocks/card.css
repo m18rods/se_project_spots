@@ -15,6 +15,7 @@
   overflow: hidden;
   max-width: 353px;
   margin: 0;
+  padding-bottom: 5px;
 }
 
 .card__like-btn {
@@ -25,6 +26,8 @@
   background-color: transparent;
   opacity: 40%;
   background-image: url(../images/like_icon.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .card__like-btn:hover {
@@ -44,6 +47,7 @@
   .card__title {
     font-size: 16px;
     line-height: 1;
+    padding-bottom: 2px;
   }
 
   .card__image {
@@ -53,5 +57,6 @@
   .card__like-btn {
     width: 20px;
     height: 18px;
+    padding-left: 20px;
   }
 }
