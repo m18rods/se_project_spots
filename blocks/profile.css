@@ -56,9 +56,9 @@
   line-height: 1;
   text-overflow: ellipsis;
   overflow: hidden;
-  /* line-clamp: 3; */
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   max-width: 420px;
 }
@@ -70,8 +70,8 @@
   opacity: 70%;
   text-overflow: ellipsis;
   overflow: hidden;
-  /* line-clamp: 3; */
   display: -webkit-box;
+  line-clamp: 3;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   max-width: 420px;
