@@ -18,6 +18,10 @@ This webpage is deployed to Github Pages
 
 - Deployment Link: https://m18rods.github.io/se_project_spots/
 
+## Video Recording
+
+https://drive.google.com/file/d/1WoDPSOfchrlhV8u_B8fRDnqPEDcRf6jW/view?usp=drive_link
+
 ## Screenshots
 
 <img width="376" alt="Spots1" src="https://github.com/user-attachments/assets/3858a8f6-9e8f-4c28-bb91-8e6a2faf80f5" />
